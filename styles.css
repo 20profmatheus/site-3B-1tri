@@ -42,9 +42,9 @@ section {
 .img-inicio {
     position: absolute;
     right: 0;
-    top: 18rem;
+    top: 12rem;
     width: 30rem;
-    height: 15;
+    height: auto;
 }
 
 
